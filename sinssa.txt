@@ -1,0 +1,9 @@
+#Enclosing Namespaces
+concept of oop 
+
+#all python type method 
+#Error TYpe in python
+
+#unittest
+
+#del
